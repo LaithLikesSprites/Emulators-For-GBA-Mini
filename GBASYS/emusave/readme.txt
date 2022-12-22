@@ -1,0 +1,1 @@
+This folder contains save files created by emulators
