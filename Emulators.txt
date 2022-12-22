@@ -1,0 +1,7 @@
+GBA Emulators:
+NES : Pocket NES
+SMS : SMS Advance
+GBC : Goomba Color
+GB  : Goomba Color
+NGP : NGP Advance (Neo Geo Pocket)
+GG  : SMS Advance
